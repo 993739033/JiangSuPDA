@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <!--name 对应的是 uri里面authorities/后面的内容 名字可以随便起
+            系统会根据文件路径自动匹配path
+            path 对应的是 文件夹名字-->
+        <!--<files-path name="name" path="path" />
+            Context.getFilesDir() + /path/。-->
+
+        <!--<cache-path name="name" path="path" />
+            物理路径相当于Context.getCacheDir() + /path/。-->
+
+        <!--<external-path name="name" path="path" />
+            物理路径相当于Environment.getExternalStorageDirectory() + /path/。-->
+
+        <!--<external-files-path name="name" path="path" />
+            物理路径相当于Context.getExternalFilesDir(String) + /path/。-->
+
+        <!--<external-cache-path name="name" path="path" />
+            物理路径相当于Context.getExternalCacheDir() + /path/。-->
+        <!--注意：external-cache-path在support-v4:24.0.0这个版本并未支持，
+        直到support-v4:25.0.0才支持，最近适配才发现这个坑!!!-->
+
+        <!--<root-path name="name" path="path" />
+            物理路径相当于/path/。 外置sdcard-->
+        <!--<external-files-path name="store" path=""/>-->
+        <external-path path="" name="cache"/>
+    </paths>
+</resources>

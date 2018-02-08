@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">出入库管理</string>
+    <string name="error_field_required">必填</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_scan">扫描</string>
+    <string name="scale_up_show_behavior">com.mingnong.scanappnew.utils.ScaleUpShowBehavior</string>
+
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\JiangSuPDA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\JiangSuPDA\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\JiangSuPDA\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon.png",
+        "source": "E:\\JiangSuPDA\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    }
+]

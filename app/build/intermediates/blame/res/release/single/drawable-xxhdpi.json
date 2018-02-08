@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\JiangSuPDA\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\menu_back_selected.png",
+        "source": "E:\\JiangSuPDA\\app\\src\\main\\res\\drawable-xxhdpi\\menu_back_selected.png"
+    },
+    {
+        "merged": "E:\\JiangSuPDA\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\menu_back_normal.png",
+        "source": "E:\\JiangSuPDA\\app\\src\\main\\res\\drawable-xxhdpi\\menu_back_normal.png"
+    }
+]

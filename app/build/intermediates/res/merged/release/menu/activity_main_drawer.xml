@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_input"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="入库" />
+        <item
+            android:id="@+id/item_output"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="出库" />
+
+        <item
+            android:id="@+id/item_upload"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="上传" />
+        <item
+            android:id="@+id/item_setting"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="设置" />
+        <!--<item-->
+            <!--android:id="@+id/re_login"-->
+            <!--android:icon="@drawable/ic_menu_manage"-->
+            <!--android:title="重新登录" />-->
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/item_save"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="保存" />
+            <item
+                android:id="@+id/re_login"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="重新登录" />
+        </menu>
+    </item>
+
+</menu>

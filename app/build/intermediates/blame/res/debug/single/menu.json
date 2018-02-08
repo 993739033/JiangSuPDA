@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\JiangSuPDA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\JiangSuPDA\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\JiangSuPDA\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\JiangSuPDA\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

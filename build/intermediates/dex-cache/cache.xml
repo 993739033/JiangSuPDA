@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ec8318b9c4187e9f714427299fa97454816f4ea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_fbe42d1edbe5076d8d60ffcfac481af4b39ca97b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_65a5d840dad1fd714624b9a3f0d32c3f8d748aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\gson-2.8.0_dd43477b68da8ae3a5186cff53adf368578cc646.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_0e1f247571058d1f7d69531b6d37182aeb2cdc1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_596dd0d70953e2e5fef64e61ab33b26f26ef7fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5e729562a38597428a1b81129cc6d5b6abe28883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_611d827aba87b1d4754135d6584038094c07a4b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\.gradle\caches\modules-2\files-2.1\com.zhy\mpermission-annotation\1.0.0\ad87d60db49aec2397f2c07c229db0886a175dd8\mpermission-annotation-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad87d60db49aec2397f2c07c229db0886a175dd8">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\mpermission-annotation-1.0.0_eeac5fa5d2febe23ab0ccfdd6db8edf90627b8a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\cn.finalteam\toolsfinal\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="966da5b6a8bfdef0bfc660e349f8765dde5cb6f3">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\cn.finalteam-toolsfinal-1.1.5_5344024cf798a7b588ebb4e39b7727fb2fdbb2a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\okio-1.6.0_710cbe5aa79dad81437fd0aeb54e39632b2f7111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_ddd661996d342abdd9738d00498c24159a9895fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_fe9567f90b14ed90865c5332362b6c083dfcc975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.zhy\mpermission-api\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c025695224d4e573f50b9711d0dd7e2e6da95ae5">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.zhy-mpermission-api-1.0.0_be12719ce91950487e8a04d530af9c33ab23a4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\JiangSuPDA\swipebackactivity\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3cc3655dfd28b6b462552e68b48dd08e804c9609">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\JiangSuPDA-swipebackactivity-unspecified_bb99fd7bd980f12e55b0f0f8380cc749c374fc8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_bea5260fe6f029d5189a460e4073865b30f7d311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_98d1b99c71b7d6efbde61c001808e57d63e0ac4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_99e57cd5c050df52d7de8ccfb77375dfd9ab3cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\commons-cli-1.2_482c6ab5fce763d5e1dfd94434a3667b62167ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_c67ebe7213a03760eb0db858086f605f9891f31d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_824ca474152726bcb2e74d2bd6c692d03c9700ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho-okhttp3\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7ff6b36b86cc5d50475d396ee60671200dbe419c">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.facebook.stetho-stetho-okhttp3-1.4.1_ea85ab9f41f878afd331604cfe814c8549b45f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\cn.finalteam\okhttpfinal\2.0.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="11d609caf1d565959b34139dab0099689b9911d8">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\cn.finalteam-okhttpfinal-2.0.7_ebd4a0c00995f76fda6f39a50216098fd5115e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_438ee2b955b5283806bf31db961b6e2198025ca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_c61f981b1ddeb77b20cae160b2d0fc5fc6b19531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_17facb1780234110f432a22fe240d310944a90b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.facebook.stetho\stetho\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26b6f0185cbba8917ba9d9d0bd170f95311622ab">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.facebook.stetho-stetho-1.4.1_2d31a6db5b31b92b45fb608e7967593cccccda70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_afba2d948ec9e461c81ff379d72cba3cf6dd5243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_6f69d2bf2d826f0a1ad8b185454057cfe8970c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3ad803676165bba31d7d3605e48d118b64c6984b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_830f8e4aaf508fae9ac2b42a886de5c78602930f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\JiangSuPDA\app\libs\core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\core_f1f738e782af6d7ab3470c89d1d4dc7f3b75a146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mnkj\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.46.android\108717c93f7aec31fb86db57cb4ad1e26034c638\fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="E:\JiangSuPDA\app\build\intermediates\pre-dexed\debug\fastjson-1.1.46.android_47047a08fc1d88a8e5b819fdb354a7040293f72a.jar" />
+    </item>
+
+</items>
